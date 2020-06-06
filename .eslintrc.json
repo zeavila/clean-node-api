@@ -15,7 +15,9 @@
   },
   "plugins": ["@typescript-eslint"],
   "rules": {
+    "comma-spacing": "off",
     "comma-dangle": "off",
-    "semi": "off"
+    "semi": "off",
+    "no-return-await": "off"
   }
 }
