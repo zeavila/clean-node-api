@@ -18,6 +18,8 @@
     "comma-spacing": "off",
     "comma-dangle": "off",
     "semi": "off",
-    "no-return-await": "off"
+    "no-return-await": "off",
+    "no-undef": "off",
+    "space-before-function-paren": "off"
   }
 }
