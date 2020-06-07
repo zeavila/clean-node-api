@@ -16,6 +16,7 @@
   },
   "plugins": ["@typescript-eslint"],
   "rules": {
+    "semi": "off",
     "comma-dangle": "off",
     "@typescript-eslint/comma-spacing": "off",
     "@typescript-eslint/semi": "off",
